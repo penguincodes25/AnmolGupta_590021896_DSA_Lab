@@ -1,3 +1,4 @@
+//Program to find out the factorial of a number
 #include <stdio.h>
 
 int factorial(int n);
@@ -24,4 +25,5 @@ int factorial(int n) {
 
     return fact;
 }
+
 
